@@ -3,10 +3,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Jeremy Irvine <jeremylukeirvine@gmail.com>
 Filename: /ControlPanel.deb
-Size: 2248
-MD5sum: cbf0dbb3a2a1c8a4b2cd1935952245e2
-SHA1: 7d349cd9c862eb2716623e82ff1291e661f9e903
-SHA256: ec15b146dabd67acce532126eb88558df38ae4c9ac343733604b5d7dd969a521
+Size: 4762
+MD5sum: c18b8b69651cccae04dd4dbefcae92f6
+SHA1: fb630bb1460c90b4aa38b0758e5935d9a97b78be
+SHA256: 0908facca6c957c7ba6144064faab66ef40762f03d12fb27f7c7493ee232231f
 Section: Tweaks
 Description: Test Tweak for my repo
 Author: Jeremy Irvine <jeremylukeirvine@gmail.com>
