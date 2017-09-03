@@ -1,5 +1,5 @@
-Package: com.yourcompany.test
-Version: 0.0.1
+Package: com.jeremyirvine.test
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Jeremy Irvine <jeremylukeirvine@gmail.com>
 Filename: /ControlPanel.deb
