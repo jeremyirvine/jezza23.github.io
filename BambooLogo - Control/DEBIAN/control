@@ -1,0 +1,10 @@
+Package: com.jeremyirvine.bamboologo
+Name: BambooLogo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Bamboo Technologies logo for Zeppelin
+Homepage: bamboo-us.com
+Depends: com.alexzielenski.zeppelin
+Section: Themes
+Author: Jeremy Irvine jeremylukeirvine@gmail.com
+Maintainer: Jeremy Irvine jeremylukeirvine@gmail.com
