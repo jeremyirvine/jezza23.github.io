@@ -1,0 +1,10 @@
+Package: com.jeremyirvine.overfl0w
+Name: overfl0w
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Install tools for exploit development
+Homepage: bamboo-us.com
+Depends: bigbosshackertools
+Section: Console
+Author: Jeremy Irvine jeremylukeirvine@gmail.com
+Maintainer: Jeremy Irvine jeremylukeirvine@gmail.com
