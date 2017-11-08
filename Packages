@@ -1,0 +1,44 @@
+Package: com.jeremyirvine.test
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Filename: /ControlPanel.deb
+Size: 4762
+MD5sum: c18b8b69651cccae04dd4dbefcae92f6
+SHA1: fb630bb1460c90b4aa38b0758e5935d9a97b78be
+SHA256: 0908facca6c957c7ba6144064faab66ef40762f03d12fb27f7c7493ee232231f
+Section: Tweaks
+Description: Test Tweak for my repo
+Author: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Name: ControlPanel vZ
+
+Package: com.jeremyirvine.bamboologo
+Version: 0.0.3
+Architecture: iphoneos-arm
+Dependencies: com.alexzielenski.zeppelin
+Maintainer: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Filename: /BambooLogo.deb
+Size: 3762
+MD5sum: f6e060b8a880aa78f57da2ab23fbc5a4
+SHA1: 85c5e19f931a68784da881b488acef3779171d9e
+SHA256: 65a44eee5280b46d1bc6303c29dce4885b81a1acde5270e15e3398c2b925a9a6
+Section: Icons
+Description: Bamboo Technologies logo for Zeppelin
+Author: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Name: Bamboo Technologies Developer Icon
+
+Package: com.jeremyirvine.overfl0w
+Version: 0.0.1
+Architecture: iphoneos-arm
+Dependencies: bigbosshackertools
+Maintainer: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Filename: /overfl0w.deb
+Size: 3762
+MD5sum: 950b3c1978e24166a11dfaa7dc4bfbcb
+SHA1: d51795071547356fa3e82fc9c8200147aabd8baa
+SHA256: 60495c8b3be0bb4c7bf5f6b9be7a75ce89deee91ded186f9ab96452025a07183
+Section: Console
+Description: Install tools for exploit development
+Author: Jeremy Irvine <jeremylukeirvine@gmail.com>
+Name: Overfl0w
+
