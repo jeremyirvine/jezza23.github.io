@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod +x /sbin/hello
+echo "Changed Permissions"
+exit 0
