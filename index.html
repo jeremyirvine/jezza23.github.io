@@ -4,7 +4,39 @@
 	<title>Jeremy Irvine's Development Repo</title>
 </head>
 <body>
-<center><h1>Jeremy Irvine's Development Repository</h1></center>
-<center><p>Add this to cydia: https://jezza23.github.io</p></center>
+<div id="container">
+	<center><h1>Jeremy Irvine's Development Repository</h1></center>
+	<center><button onclick="window.location.href = 'cydia://url/https://cydia.saurik.com/api/share#?source=http://jezza23.github.io'">Add Repo</button></center>
+	<br>
+	<center><button onclick="window.location.href = 'https://twitter.com/jezza_dev';">Twitter</button></center>
+</div>
 </body>
+<style>
+	body {
+		font-family: sans-serif;
+		background: url("https://images.unsplash.com/photo-1507830075634-ce51e8b19328?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=yannick-pulver-410551.jpg&s=afdbac119afeb8a54678e4271e694ce1");
+	}
+	h1 {
+		color: white;
+	}
+	#container {
+		position: relative;
+		top:100px;
+	}
+	button {
+		width: 200px;
+		height: 100px;
+		background: none;
+		border-radius: 0;
+		transition: 0.5s;
+		color: white;
+		font-size: 25px;
+	}
+	button:hover {
+
+		box-shadow: 0px 0px 20px white;
+		background-color: white;
+		color: black;
+	}
+</style>
 </html>
